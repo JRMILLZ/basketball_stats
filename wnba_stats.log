@@ -1,0 +1,28 @@
+2024-09-04 16:00:03,146 - INFO - Starting WNBA stats scraping
+2024-09-04 16:00:03,346 - INFO - URL Status Code = 200
+2024-09-04 16:00:03,697 - INFO - CSV saved to wnba_stats_20240904_160003.csv
+2024-09-04 16:00:03,697 - INFO - Column length matches
+2024-09-04 16:00:03,697 - INFO - Row length matches
+2024-09-04 16:00:03,697 - INFO - WNBA Stats scraping completed successfully
+2024-09-04 16:00:03,698 - INFO - All stats courtesy of Basketball-Reference.com (https://www.basketball-reference.com/)
+2024-09-04 16:01:20,366 - INFO - Starting WNBA stats scraping
+2024-09-04 16:01:41,205 - INFO - Starting WNBA stats scraping
+2024-09-04 16:01:41,352 - INFO - URL Status Code = 200
+2024-09-04 16:01:41,693 - INFO - CSV saved to wnba_stats_20240904_160141.csv
+2024-09-04 16:01:41,693 - INFO - Column length matches
+2024-09-04 16:01:41,693 - INFO - Row length matches
+2024-09-04 16:01:41,693 - INFO - WNBA Stats scraping completed successfully
+2024-09-04 16:01:41,693 - INFO - All stats courtesy of Basketball-Reference.com (https://www.basketball-reference.com/)
+2024-09-04 16:04:02,203 - INFO - Starting WNBA stats scraping
+2024-09-04 16:04:02,320 - ERROR - Error fetching URL: Unexpected Status Code: 404
+2024-09-06 18:36:40,267 - INFO - Starting WNBA stats scraping
+2024-09-06 18:36:40,414 - ERROR - Error fetching URL: Unexpected Status Code: 404
+2024-09-06 18:37:43,945 - INFO - Starting WNBA stats scraping
+2024-09-06 18:37:44,059 - ERROR - Error fetching URL: Unexpected Status Code: 404
+2024-09-06 18:38:28,741 - INFO - Starting WNBA stats scraping
+2024-09-06 18:38:28,886 - INFO - URL Status Code = 200
+2024-09-06 18:38:29,386 - INFO - CSV saved to wnba_stats_20240906_183828.csv
+2024-09-06 18:38:29,386 - INFO - Column length matches
+2024-09-06 18:38:29,386 - INFO - Row length matches
+2024-09-06 18:38:29,386 - INFO - WNBA Stats scraping completed successfully
+2024-09-06 18:38:29,386 - INFO - All stats courtesy of Basketball-Reference.com (https://www.basketball-reference.com/)
